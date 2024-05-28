@@ -1,6 +1,8 @@
 // WordCount.cpp
 
 #include "WordCount.h"
+#include <map>
+#include <set>
 
 using namespace std;
 

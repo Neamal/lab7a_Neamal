@@ -8,8 +8,7 @@
 #include <vector>
 #include <utility>
 #include <algorithm>
-#include <map>
-#include <set>
+
 
 class WordCount {
 public:
